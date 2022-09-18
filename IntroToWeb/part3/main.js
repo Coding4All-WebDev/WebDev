@@ -1,7 +1,7 @@
 let inputEnter = document.getElementById("todoEnter");
 
 // Note: Recall functions can be written in arrow syntax without name: () => {}
-// Here we take (<function_parameter>) => {} and store that function in tableAdd
+// Here we take (<function_parameter>) => {} and store that function in tableAdd.
 const tableAdd = (todoItem) => {
     let table = document.getElementById("todoTable");
 
