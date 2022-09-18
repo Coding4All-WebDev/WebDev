@@ -8,7 +8,7 @@
 
 ---
 
-### 1. Running JavaScript (Part 1)
+### 2. Running JavaScript (Part 1)
 
 > To traditionally run JavaScript we use the script tag in our HTML
 
@@ -43,7 +43,7 @@
     }
 ```
 
-### 2. Running JavaScript in the Console without HTML (For testing only) (Part 2)
+### 3. Running JavaScript in the Console without HTML (For testing only) (Part 2)
 
 > Step 1. Open Chrome or MS Edge and press: Ctrl + Shift + I
 
