@@ -4,31 +4,31 @@
 
 > What is version control in software development ?
 
-```
+
 Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
 
 Large teams when collaborating require tools to manage software, and changes done to it.
 And hence we require tools.
-```
+
 
 ---
 
 > What is Git ?
 
-```
+
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-```
+
 
 ---
 
 > What is GitHub ?
-```
+
 GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. 
 
 GitHub understands the "Git" program and helps in managing software versions online.
 
 This helps many developers access code from a common place, like GitHub and they can contribute their code, using the Git tool.
-```
+
 
 ---
 
@@ -59,7 +59,7 @@ git branch -M main
 
 ```Note: Staging or staging area is done before first commit / save with git```
 
-```
+
     // Case 1. If you want to add a file to staging then type
 
             git add <file-name>
@@ -76,7 +76,7 @@ git branch -M main
 
             git add .
 
-```
+
 
 ---
 
