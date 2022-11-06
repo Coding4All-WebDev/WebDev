@@ -60,22 +60,25 @@ git branch -M main
 ```Note: Staging or staging area is done before first commit / save with git```
 
 
-    // Case 1. If you want to add a file to staging then type
+// Case 1. If you want to add a file to staging then type
 
-            git add <file-name>
+ ```       
+    git add <file-name>
+ ```
 
-    // Case 2. If you want to add many files to staging
+// Case 2. If you want to add many files to staging
+```
+        git add <file1> <file2> ....
+```
 
-            git add <file1> <file2> ....
+    eg: if my file names are a.js, b.js, c.js
 
-        eg: if my file names are a.js, b.js, c.js
+        git add a.js b.js c.js
 
-            git add a.js b.js c.js
-    
-    // Case 3. If you want to add all the files in your folder to staging
-
-            git add .
-
+// Case 3. If you want to add all the files in your folder to staging
+```
+        git add .
+```
 
 
 ---
@@ -91,7 +94,6 @@ git branch -M main
 ##### f. To finalize your changes with Git (after saving the content to your computer)
 
 > Note: "-m" is an option to the commit used to give a message (it is mandatory)
-
 ```
     git commit -m "<type_your_message>"
 ```
@@ -107,7 +109,5 @@ git branch -M main
 ---
 
 #### 3. Important Note
+Steps 2.d to 2.f are done every time you want to tell git you have updated your source code
 
-```
-    Steps 2.d to 2.f are done every time you want to tell git you have updated your source code
-```
