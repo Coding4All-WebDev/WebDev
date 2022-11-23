@@ -1,0 +1,20 @@
+
+
+Use the Readme and write your own set of programs demonstrating the concepts of
+
+
+1. Functions
+2. Objects
+3. Classes
+4. Function Prototypes
+5. Object class
+
+
+!! Also use the Extra resources and practise those, we will be using a combination of all techniques learnt
+!! in our future projects
+
+
+
+
+
+
