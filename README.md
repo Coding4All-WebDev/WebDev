@@ -4,4 +4,8 @@ This is going to be a long journey in getting a complete hands on with web devel
 
 ---
 
-### How
+### How to use the resources here
+
+
+> Go through each folder
+
