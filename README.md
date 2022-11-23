@@ -8,4 +8,3 @@ This is going to be a long journey in getting a complete hands on with web devel
 
 
 > Go through each folder
-

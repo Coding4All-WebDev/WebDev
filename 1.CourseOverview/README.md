@@ -1,4 +1,4 @@
-# Welcome to the JS Course @Coding4All
+# A brief intro of Javascript
 
 ---
 
